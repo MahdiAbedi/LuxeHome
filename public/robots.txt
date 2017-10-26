@@ -1,0 +1,1 @@
+sitemap: http://www.royalstate.ir/sitemapindex_xml.xml

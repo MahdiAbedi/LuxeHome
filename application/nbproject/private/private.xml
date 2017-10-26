@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/luxehome/application/controllers/Guest.php</file>
+            <file>file:/C:/xampp/htdocs/luxehome/application/models/Guest_model.php</file>
+            <file>file:/C:/xampp/htdocs/luxehome/application/views/widgets/home_list.php</file>
+            <file>file:/C:/xampp/htdocs/luxehome/application/views/widgets/send_msg_to_user.php</file>
+            <file>file:/C:/xampp/htdocs/luxehome/application/config/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/luxehome/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/luxehome/application/views/front/home_detail.php</file>
+        </group>
+    </open-files>
+</project-private>

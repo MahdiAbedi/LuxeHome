@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <sitemapindex xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+                <sitemap>
+                <loc>http://localhost/luxehome/public/sitemap/sitemap_xml_0.xml</loc>
+                <lastmod>June 11, 2017, 12:44 pm</lastmod>
+                </sitemap>
+
+                <sitemap>
+                <loc>http://localhost/luxehome/public/sitemap/sitemap_xml_1.xml</loc>
+                <lastmod>June 11, 2017, 12:44 pm</lastmod>
+                </sitemap>
+	</sitemapindex>
